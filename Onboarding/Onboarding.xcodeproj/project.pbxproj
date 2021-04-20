@@ -13,6 +13,7 @@
 		CDB9943B262ECC52000C8E8B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDB9943A262ECC52000C8E8B /* Preview Assets.xcassets */; };
 		CDB99444262ECC71000C8E8B /* Onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB99443262ECC71000C8E8B /* Onboarding.swift */; };
 		CDB99448262ECDF2000C8E8B /* SwiftUIX in Frameworks */ = {isa = PBXBuildFile; productRef = CDB99447262ECDF2000C8E8B /* SwiftUIX */; };
+		CDE2E4C0262EED59000FEC04 /* CloudView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4BF262EED59000FEC04 /* CloudView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		CDB9943A262ECC52000C8E8B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CDB9943C262ECC52000C8E8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CDB99443262ECC71000C8E8B /* Onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding.swift; sourceTree = "<group>"; };
+		CDE2E4BF262EED59000FEC04 /* CloudView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CDB99433262ECC4F000C8E8B /* OnboardingApp.swift */,
 				CDB99435262ECC4F000C8E8B /* ContentView.swift */,
 				CDB99443262ECC71000C8E8B /* Onboarding.swift */,
+				CDE2E4BF262EED59000FEC04 /* CloudView.swift */,
 				CDB99437262ECC52000C8E8B /* Assets.xcassets */,
 				CDB9943C262ECC52000C8E8B /* Info.plist */,
 				CDB99439262ECC52000C8E8B /* Preview Content */,
@@ -150,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CDB99444262ECC71000C8E8B /* Onboarding.swift in Sources */,
+				CDE2E4C0262EED59000FEC04 /* CloudView.swift in Sources */,
 				CDB99436262ECC4F000C8E8B /* ContentView.swift in Sources */,
 				CDB99434262ECC4F000C8E8B /* OnboardingApp.swift in Sources */,
 			);
