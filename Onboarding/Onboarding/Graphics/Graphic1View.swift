@@ -5,29 +5,31 @@
 //  Created by Thongchai Subsaidee on 20/4/2564 BE.
 //
 
+// Cloud
+
 import SwiftUI
 
-struct CloudView: View {
+struct Graphic1View: View {
     var body: some View {
         LinearGradient(
-            gradient: Gradient(colors: [Color(#colorLiteral(red: 0.9675970674, green: 0.4913076758, blue: 0.5138258934, alpha: 1)), Color(#colorLiteral(red: 0.9497178197, green: 0.137912631, blue: 0.3324345946, alpha: 1))]),
+            gradient: Gradient(colors: [Color(#colorLiteral(red: 0.9675970674, green: 0.4913076758, blue: 0.5138258934, alpha: 1)), Color(#colorLiteral(red: 0.9497178197, green: 0.137912631, blue: 0.3324345946, alpha: 1)), Color(#colorLiteral(red: 0.5568627715, green: 0.3529411852, blue: 0.9686274529, alpha: 1))]),
             startPoint: .bottom,
             endPoint: .top
         )
         .mask(
-            Cloud()
+            Graphic1Shape()
                 .frame(width: .infinity, height: UIScreen.main.bounds.height * 0.8)
         )
     }
 }
 
-struct CloudView_Previews: PreviewProvider {
+struct Graphic1View_Previews: PreviewProvider {
     static var previews: some View {
-        CloudView()
+        Graphic1View()
     }
 }
 
-struct Cloud: Shape {
+struct Graphic1Shape: Shape {
     func path(in rect: CGRect) -> Path {
         var path = Path()
         let width = rect.size.width

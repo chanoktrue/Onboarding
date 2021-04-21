@@ -1,5 +1,5 @@
 //
-//  Onboarding.swift
+//  OnboardingView.swift
 //  Onboarding
 //
 //  Created by Thongchai Subsaidee on 20/4/2564 BE.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct Onboarding: View {
+struct OnboardingView: View {
     var body: some View {
         
         ZStack {
@@ -32,15 +32,17 @@ struct Onboarding: View {
             .ignoresSafeArea()
             .overlay(
                 ZStack {
-                    CloudView()
+                    Graphic1View()
+                    Graphic16View()
+                        .offset(y: -100)
                 }
             )
     }
 }
 
-struct Onboarding_Previews: PreviewProvider {
+struct OnboardingView_Previews: PreviewProvider {
     static var previews: some View {
-        Onboarding()
+        OnboardingView()
     }
 }
 

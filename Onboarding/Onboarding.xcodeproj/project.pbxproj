@@ -11,9 +11,40 @@
 		CDB99436262ECC4F000C8E8B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB99435262ECC4F000C8E8B /* ContentView.swift */; };
 		CDB99438262ECC52000C8E8B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDB99437262ECC52000C8E8B /* Assets.xcassets */; };
 		CDB9943B262ECC52000C8E8B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDB9943A262ECC52000C8E8B /* Preview Assets.xcassets */; };
-		CDB99444262ECC71000C8E8B /* Onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB99443262ECC71000C8E8B /* Onboarding.swift */; };
+		CDB99444262ECC71000C8E8B /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB99443262ECC71000C8E8B /* OnboardingView.swift */; };
 		CDB99448262ECDF2000C8E8B /* SwiftUIX in Frameworks */ = {isa = PBXBuildFile; productRef = CDB99447262ECDF2000C8E8B /* SwiftUIX */; };
-		CDE2E4C0262EED59000FEC04 /* CloudView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4BF262EED59000FEC04 /* CloudView.swift */; };
+		CDE2E4C0262EED59000FEC04 /* Graphic1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4BF262EED59000FEC04 /* Graphic1View.swift */; };
+		CDE2E4C7262FB9F9000FEC04 /* Graphic2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4C6262FB9F9000FEC04 /* Graphic2View.swift */; };
+		CDE2E4CC262FBB18000FEC04 /* Graphic3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4CB262FBB18000FEC04 /* Graphic3View.swift */; };
+		CDE2E4D0262FBCAA000FEC04 /* Graphic4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4CF262FBCAA000FEC04 /* Graphic4View.swift */; };
+		CDE2E4D3262FBDAD000FEC04 /* Graphic5View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4D2262FBDAD000FEC04 /* Graphic5View.swift */; };
+		CDE2E4D6262FBDE2000FEC04 /* Graphic6View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4D5262FBDE2000FEC04 /* Graphic6View.swift */; };
+		CDE2E4D9262FBECC000FEC04 /* Graphic7View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4D8262FBECC000FEC04 /* Graphic7View.swift */; };
+		CDE2E4DC262FBF04000FEC04 /* Graphic8View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4DB262FBF04000FEC04 /* Graphic8View.swift */; };
+		CDE2E4DF262FBF63000FEC04 /* Graphic9View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4DE262FBF63000FEC04 /* Graphic9View.swift */; };
+		CDE2E4E2262FBFB9000FEC04 /* Graphic10View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4E1262FBFB9000FEC04 /* Graphic10View.swift */; };
+		CDE2E4E5262FC074000FEC04 /* Graphic11View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4E4262FC074000FEC04 /* Graphic11View.swift */; };
+		CDE2E4E8262FC2C2000FEC04 /* Graphic12View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4E7262FC2C2000FEC04 /* Graphic12View.swift */; };
+		CDE2E4EB262FC2FA000FEC04 /* Graphic13View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4EA262FC2FA000FEC04 /* Graphic13View.swift */; };
+		CDE2E4EE262FC366000FEC04 /* Graphic14View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4ED262FC366000FEC04 /* Graphic14View.swift */; };
+		CDE2E4F1262FC3B3000FEC04 /* Graphic15View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4F0262FC3B3000FEC04 /* Graphic15View.swift */; };
+		CDE2E4F4262FC4FD000FEC04 /* Graphic16View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4F3262FC4FD000FEC04 /* Graphic16View.swift */; };
+		CDE2E4F7262FC641000FEC04 /* Graphic17View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4F6262FC641000FEC04 /* Graphic17View.swift */; };
+		CDE2E4FA262FC6B2000FEC04 /* Graphic18View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4F9262FC6B2000FEC04 /* Graphic18View.swift */; };
+		CDE2E4FD262FC720000FEC04 /* CeditCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4FC262FC720000FEC04 /* CeditCardView.swift */; };
+		CDE2E500262FCCBB000FEC04 /* Graphic19View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4FF262FCCBB000FEC04 /* Graphic19View.swift */; };
+		CDE2E503262FD584000FEC04 /* Graphic20View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E502262FD584000FEC04 /* Graphic20View.swift */; };
+		CDE2E506262FD5E6000FEC04 /* Graphic21View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E505262FD5E6000FEC04 /* Graphic21View.swift */; };
+		CDE2E509262FD632000FEC04 /* Graphic22View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E508262FD632000FEC04 /* Graphic22View.swift */; };
+		CDE2E50C262FD6A7000FEC04 /* Graphic23View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E50B262FD6A7000FEC04 /* Graphic23View.swift */; };
+		CDE2E50F262FD6D8000FEC04 /* Graphic24View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E50E262FD6D8000FEC04 /* Graphic24View.swift */; };
+		CDE2E512262FD8BA000FEC04 /* Graphic25View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E511262FD8BA000FEC04 /* Graphic25View.swift */; };
+		CDE2E515262FD953000FEC04 /* Graphic26View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E514262FD953000FEC04 /* Graphic26View.swift */; };
+		CDE2E518262FD9BB000FEC04 /* Graphic27View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E517262FD9BB000FEC04 /* Graphic27View.swift */; };
+		CDE2E51B262FDA13000FEC04 /* Graphic28View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E51A262FDA13000FEC04 /* Graphic28View.swift */; };
+		CDE2E51E262FDC63000FEC04 /* Graphic29View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E51D262FDC63000FEC04 /* Graphic29View.swift */; };
+		CDE2E521262FDCAD000FEC04 /* Graphic30View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E520262FDCAD000FEC04 /* Graphic30View.swift */; };
+		CDE2E525262FDE56000FEC04 /* BoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E524262FDE56000FEC04 /* BoxView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,8 +54,39 @@
 		CDB99437262ECC52000C8E8B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CDB9943A262ECC52000C8E8B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CDB9943C262ECC52000C8E8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CDB99443262ECC71000C8E8B /* Onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding.swift; sourceTree = "<group>"; };
-		CDE2E4BF262EED59000FEC04 /* CloudView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudView.swift; sourceTree = "<group>"; };
+		CDB99443262ECC71000C8E8B /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		CDE2E4BF262EED59000FEC04 /* Graphic1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic1View.swift; sourceTree = "<group>"; };
+		CDE2E4C6262FB9F9000FEC04 /* Graphic2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic2View.swift; sourceTree = "<group>"; };
+		CDE2E4CB262FBB18000FEC04 /* Graphic3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic3View.swift; sourceTree = "<group>"; };
+		CDE2E4CF262FBCAA000FEC04 /* Graphic4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic4View.swift; sourceTree = "<group>"; };
+		CDE2E4D2262FBDAD000FEC04 /* Graphic5View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic5View.swift; sourceTree = "<group>"; };
+		CDE2E4D5262FBDE2000FEC04 /* Graphic6View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic6View.swift; sourceTree = "<group>"; };
+		CDE2E4D8262FBECC000FEC04 /* Graphic7View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic7View.swift; sourceTree = "<group>"; };
+		CDE2E4DB262FBF04000FEC04 /* Graphic8View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic8View.swift; sourceTree = "<group>"; };
+		CDE2E4DE262FBF63000FEC04 /* Graphic9View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic9View.swift; sourceTree = "<group>"; };
+		CDE2E4E1262FBFB9000FEC04 /* Graphic10View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic10View.swift; sourceTree = "<group>"; };
+		CDE2E4E4262FC074000FEC04 /* Graphic11View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic11View.swift; sourceTree = "<group>"; };
+		CDE2E4E7262FC2C2000FEC04 /* Graphic12View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic12View.swift; sourceTree = "<group>"; };
+		CDE2E4EA262FC2FA000FEC04 /* Graphic13View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic13View.swift; sourceTree = "<group>"; };
+		CDE2E4ED262FC366000FEC04 /* Graphic14View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic14View.swift; sourceTree = "<group>"; };
+		CDE2E4F0262FC3B3000FEC04 /* Graphic15View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic15View.swift; sourceTree = "<group>"; };
+		CDE2E4F3262FC4FD000FEC04 /* Graphic16View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic16View.swift; sourceTree = "<group>"; };
+		CDE2E4F6262FC641000FEC04 /* Graphic17View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic17View.swift; sourceTree = "<group>"; };
+		CDE2E4F9262FC6B2000FEC04 /* Graphic18View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic18View.swift; sourceTree = "<group>"; };
+		CDE2E4FC262FC720000FEC04 /* CeditCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CeditCardView.swift; sourceTree = "<group>"; };
+		CDE2E4FF262FCCBB000FEC04 /* Graphic19View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic19View.swift; sourceTree = "<group>"; };
+		CDE2E502262FD584000FEC04 /* Graphic20View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic20View.swift; sourceTree = "<group>"; };
+		CDE2E505262FD5E6000FEC04 /* Graphic21View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic21View.swift; sourceTree = "<group>"; };
+		CDE2E508262FD632000FEC04 /* Graphic22View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic22View.swift; sourceTree = "<group>"; };
+		CDE2E50B262FD6A7000FEC04 /* Graphic23View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic23View.swift; sourceTree = "<group>"; };
+		CDE2E50E262FD6D8000FEC04 /* Graphic24View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic24View.swift; sourceTree = "<group>"; };
+		CDE2E511262FD8BA000FEC04 /* Graphic25View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic25View.swift; sourceTree = "<group>"; };
+		CDE2E514262FD953000FEC04 /* Graphic26View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic26View.swift; sourceTree = "<group>"; };
+		CDE2E517262FD9BB000FEC04 /* Graphic27View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic27View.swift; sourceTree = "<group>"; };
+		CDE2E51A262FDA13000FEC04 /* Graphic28View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic28View.swift; sourceTree = "<group>"; };
+		CDE2E51D262FDC63000FEC04 /* Graphic29View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic29View.swift; sourceTree = "<group>"; };
+		CDE2E520262FDCAD000FEC04 /* Graphic30View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic30View.swift; sourceTree = "<group>"; };
+		CDE2E524262FDE56000FEC04 /* BoxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoxView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +122,10 @@
 			children = (
 				CDB99433262ECC4F000C8E8B /* OnboardingApp.swift */,
 				CDB99435262ECC4F000C8E8B /* ContentView.swift */,
-				CDB99443262ECC71000C8E8B /* Onboarding.swift */,
-				CDE2E4BF262EED59000FEC04 /* CloudView.swift */,
+				CDB99443262ECC71000C8E8B /* OnboardingView.swift */,
+				CDE2E4FC262FC720000FEC04 /* CeditCardView.swift */,
+				CDE2E524262FDE56000FEC04 /* BoxView.swift */,
+				CDE2E4C4262FB90F000FEC04 /* Graphics */,
 				CDB99437262ECC52000C8E8B /* Assets.xcassets */,
 				CDB9943C262ECC52000C8E8B /* Info.plist */,
 				CDB99439262ECC52000C8E8B /* Preview Content */,
@@ -75,6 +139,43 @@
 				CDB9943A262ECC52000C8E8B /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		CDE2E4C4262FB90F000FEC04 /* Graphics */ = {
+			isa = PBXGroup;
+			children = (
+				CDE2E4BF262EED59000FEC04 /* Graphic1View.swift */,
+				CDE2E4C6262FB9F9000FEC04 /* Graphic2View.swift */,
+				CDE2E4CB262FBB18000FEC04 /* Graphic3View.swift */,
+				CDE2E4CF262FBCAA000FEC04 /* Graphic4View.swift */,
+				CDE2E4D2262FBDAD000FEC04 /* Graphic5View.swift */,
+				CDE2E4D5262FBDE2000FEC04 /* Graphic6View.swift */,
+				CDE2E4D8262FBECC000FEC04 /* Graphic7View.swift */,
+				CDE2E4DB262FBF04000FEC04 /* Graphic8View.swift */,
+				CDE2E4DE262FBF63000FEC04 /* Graphic9View.swift */,
+				CDE2E4E1262FBFB9000FEC04 /* Graphic10View.swift */,
+				CDE2E4E4262FC074000FEC04 /* Graphic11View.swift */,
+				CDE2E4E7262FC2C2000FEC04 /* Graphic12View.swift */,
+				CDE2E4EA262FC2FA000FEC04 /* Graphic13View.swift */,
+				CDE2E4ED262FC366000FEC04 /* Graphic14View.swift */,
+				CDE2E4F0262FC3B3000FEC04 /* Graphic15View.swift */,
+				CDE2E4F3262FC4FD000FEC04 /* Graphic16View.swift */,
+				CDE2E4F6262FC641000FEC04 /* Graphic17View.swift */,
+				CDE2E4F9262FC6B2000FEC04 /* Graphic18View.swift */,
+				CDE2E4FF262FCCBB000FEC04 /* Graphic19View.swift */,
+				CDE2E502262FD584000FEC04 /* Graphic20View.swift */,
+				CDE2E505262FD5E6000FEC04 /* Graphic21View.swift */,
+				CDE2E508262FD632000FEC04 /* Graphic22View.swift */,
+				CDE2E50B262FD6A7000FEC04 /* Graphic23View.swift */,
+				CDE2E50E262FD6D8000FEC04 /* Graphic24View.swift */,
+				CDE2E511262FD8BA000FEC04 /* Graphic25View.swift */,
+				CDE2E514262FD953000FEC04 /* Graphic26View.swift */,
+				CDE2E517262FD9BB000FEC04 /* Graphic27View.swift */,
+				CDE2E51A262FDA13000FEC04 /* Graphic28View.swift */,
+				CDE2E51D262FDC63000FEC04 /* Graphic29View.swift */,
+				CDE2E520262FDCAD000FEC04 /* Graphic30View.swift */,
+			);
+			path = Graphics;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -152,9 +253,40 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CDB99444262ECC71000C8E8B /* Onboarding.swift in Sources */,
-				CDE2E4C0262EED59000FEC04 /* CloudView.swift in Sources */,
+				CDE2E4FD262FC720000FEC04 /* CeditCardView.swift in Sources */,
+				CDB99444262ECC71000C8E8B /* OnboardingView.swift in Sources */,
+				CDE2E521262FDCAD000FEC04 /* Graphic30View.swift in Sources */,
+				CDE2E4D9262FBECC000FEC04 /* Graphic7View.swift in Sources */,
+				CDE2E4FA262FC6B2000FEC04 /* Graphic18View.swift in Sources */,
+				CDE2E4C7262FB9F9000FEC04 /* Graphic2View.swift in Sources */,
+				CDE2E4DF262FBF63000FEC04 /* Graphic9View.swift in Sources */,
+				CDE2E525262FDE56000FEC04 /* BoxView.swift in Sources */,
+				CDE2E4C0262EED59000FEC04 /* Graphic1View.swift in Sources */,
+				CDE2E4F4262FC4FD000FEC04 /* Graphic16View.swift in Sources */,
+				CDE2E4D3262FBDAD000FEC04 /* Graphic5View.swift in Sources */,
+				CDE2E50F262FD6D8000FEC04 /* Graphic24View.swift in Sources */,
+				CDE2E509262FD632000FEC04 /* Graphic22View.swift in Sources */,
+				CDE2E503262FD584000FEC04 /* Graphic20View.swift in Sources */,
+				CDE2E512262FD8BA000FEC04 /* Graphic25View.swift in Sources */,
+				CDE2E4CC262FBB18000FEC04 /* Graphic3View.swift in Sources */,
+				CDE2E50C262FD6A7000FEC04 /* Graphic23View.swift in Sources */,
 				CDB99436262ECC4F000C8E8B /* ContentView.swift in Sources */,
+				CDE2E506262FD5E6000FEC04 /* Graphic21View.swift in Sources */,
+				CDE2E51B262FDA13000FEC04 /* Graphic28View.swift in Sources */,
+				CDE2E4DC262FBF04000FEC04 /* Graphic8View.swift in Sources */,
+				CDE2E4E5262FC074000FEC04 /* Graphic11View.swift in Sources */,
+				CDE2E51E262FDC63000FEC04 /* Graphic29View.swift in Sources */,
+				CDE2E500262FCCBB000FEC04 /* Graphic19View.swift in Sources */,
+				CDE2E4F7262FC641000FEC04 /* Graphic17View.swift in Sources */,
+				CDE2E4D6262FBDE2000FEC04 /* Graphic6View.swift in Sources */,
+				CDE2E4F1262FC3B3000FEC04 /* Graphic15View.swift in Sources */,
+				CDE2E4EE262FC366000FEC04 /* Graphic14View.swift in Sources */,
+				CDE2E4EB262FC2FA000FEC04 /* Graphic13View.swift in Sources */,
+				CDE2E518262FD9BB000FEC04 /* Graphic27View.swift in Sources */,
+				CDE2E4E8262FC2C2000FEC04 /* Graphic12View.swift in Sources */,
+				CDE2E4E2262FBFB9000FEC04 /* Graphic10View.swift in Sources */,
+				CDE2E515262FD953000FEC04 /* Graphic26View.swift in Sources */,
+				CDE2E4D0262FBCAA000FEC04 /* Graphic4View.swift in Sources */,
 				CDB99434262ECC4F000C8E8B /* OnboardingApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
