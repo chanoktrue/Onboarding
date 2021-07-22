@@ -13,6 +13,7 @@
 		CDB9943B262ECC52000C8E8B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDB9943A262ECC52000C8E8B /* Preview Assets.xcassets */; };
 		CDB99444262ECC71000C8E8B /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDB99443262ECC71000C8E8B /* OnboardingView.swift */; };
 		CDB99448262ECDF2000C8E8B /* SwiftUIX in Frameworks */ = {isa = PBXBuildFile; productRef = CDB99447262ECDF2000C8E8B /* SwiftUIX */; };
+		CDBD125026A8DBF3003CAD8A /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBD124F26A8DBF3003CAD8A /* BackgroundView.swift */; };
 		CDE2E4C0262EED59000FEC04 /* Graphic1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4BF262EED59000FEC04 /* Graphic1View.swift */; };
 		CDE2E4C7262FB9F9000FEC04 /* Graphic2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4C6262FB9F9000FEC04 /* Graphic2View.swift */; };
 		CDE2E4CC262FBB18000FEC04 /* Graphic3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE2E4CB262FBB18000FEC04 /* Graphic3View.swift */; };
@@ -55,6 +56,7 @@
 		CDB9943A262ECC52000C8E8B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CDB9943C262ECC52000C8E8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CDB99443262ECC71000C8E8B /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		CDBD124F26A8DBF3003CAD8A /* BackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
 		CDE2E4BF262EED59000FEC04 /* Graphic1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic1View.swift; sourceTree = "<group>"; };
 		CDE2E4C6262FB9F9000FEC04 /* Graphic2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic2View.swift; sourceTree = "<group>"; };
 		CDE2E4CB262FBB18000FEC04 /* Graphic3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graphic3View.swift; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 				CDB99443262ECC71000C8E8B /* OnboardingView.swift */,
 				CDE2E4FC262FC720000FEC04 /* CeditCardView.swift */,
 				CDE2E524262FDE56000FEC04 /* BoxView.swift */,
+				CDBD124F26A8DBF3003CAD8A /* BackgroundView.swift */,
 				CDE2E4C4262FB90F000FEC04 /* Graphics */,
 				CDB99437262ECC52000C8E8B /* Assets.xcassets */,
 				CDB9943C262ECC52000C8E8B /* Info.plist */,
@@ -271,6 +274,7 @@
 				CDE2E4CC262FBB18000FEC04 /* Graphic3View.swift in Sources */,
 				CDE2E50C262FD6A7000FEC04 /* Graphic23View.swift in Sources */,
 				CDB99436262ECC4F000C8E8B /* ContentView.swift in Sources */,
+				CDBD125026A8DBF3003CAD8A /* BackgroundView.swift in Sources */,
 				CDE2E506262FD5E6000FEC04 /* Graphic21View.swift in Sources */,
 				CDE2E51B262FDA13000FEC04 /* Graphic28View.swift in Sources */,
 				CDE2E4DC262FBF04000FEC04 /* Graphic8View.swift in Sources */,

@@ -9,15 +9,15 @@ import SwiftUI
 
 struct Graphic24View: View {
     var body: some View {
-        LinearGradient(
-            gradient: Gradient(colors: [Color(#colorLiteral(red: 0.9529411793, green: 0.6862745285, blue: 0.1333333403, alpha: 1)), Color(#colorLiteral(red: 0.9254902005, green: 0.2352941185, blue: 0.1019607857, alpha: 1)), Color(#colorLiteral(red: 0.5568627715, green: 0.3529411852, blue: 0.9686274529, alpha: 1))]),
-            startPoint: .bottom,
-            endPoint: .top
-        )
-        .mask(
-            Graphic24Shape()
-                .frame(width: UIScreen.main.bounds.width, height: UIScreen.main.bounds.height * 0.5)
-        )
+            LinearGradient(
+                gradient: Gradient(colors: [Color(#colorLiteral(red: 0.9529411793, green: 0.6862745285, blue: 0.1333333403, alpha: 1)), Color(#colorLiteral(red: 0.9254902005, green: 0.2352941185, blue: 0.1019607857, alpha: 1)), Color(#colorLiteral(red: 0.5568627715, green: 0.3529411852, blue: 0.9686274529, alpha: 1))]),
+                startPoint: .bottom,
+                endPoint: .top
+            )
+            .mask(
+                Graphic24Shape()
+                    .frame(width: UIScreen.main.bounds.width, height: UIScreen.main.bounds.height * 0.5)
+            )
     }
 }
 
